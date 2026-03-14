@@ -72,22 +72,23 @@ output c,d,e,x,y,z;
 and (c,a,b);
 or(d,a,b);
 xor(e,a,b);
-nand(f,a,b);
+nand(x,a,b);
 nor(y,a,b);
 xnor(z,a,b);
 endmodule
 ```
 Developed by: SABEEHA PARVEEN K
+
 RegisterNumber: 212225230233
  
 **Logic symbol & Truthtable**
-![alt text](EX1-1.png)
+![alt text](EX1-2.png)
 
 **RTL realization Output:** 
-![alt text](EX1.1.png)
+![alt text](EX1.1-1.png)
 
 **RTL**
-![alt text](EX1.2-1.png)
+![alt text](EX1.2-2.png)
 
 **Result:**
 Thus the study and verification of the truth table of logic gates in quartus II using Verilog programming.
